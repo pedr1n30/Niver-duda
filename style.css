@@ -1,0 +1,41 @@
+body {
+  background-color: #ff71b5;
+}
+
+.head {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 100px;
+  background-color: rgba(255, 0, 0, 0.08);
+}
+
+.head h1 {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  color: crimson;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.head #heart {
+  padding-left: 15px;
+  padding-top: 8px;
+}
+
+h2 {
+  color: crimson;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.questions {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: crimson;
+}
