@@ -1,0 +1,21 @@
+body {
+  background-color: #ff71b5;
+}
+
+h1,
+h2 {
+  font-family: URW Chancery L, cursive;
+  color: crimson;
+  font-size: 50px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+div {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

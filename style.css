@@ -11,7 +11,7 @@ body {
 }
 
 .head h1 {
-  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-family: URW Chancery L, cursive;
   color: crimson;
   font-size: 50px;
   font-weight: bold;
@@ -78,4 +78,11 @@ p {
 .buttons {
   color: crimson;
   text-decoration: none;
+}
+
+.music {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 10px;
 }
