@@ -3,6 +3,7 @@ body {
 }
 
 .head {
+  text-align: center;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -85,5 +86,5 @@ p {
   align-items: center;
   justify-content: center;
   display: flex;
-  margin: 10px;
+  margin: 5px;
 }
