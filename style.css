@@ -26,6 +26,7 @@ h2 {
   color: crimson;
   font-family: sans-serif;
   align-items: center;
+  text-align: center;
   justify-content: center;
   display: flex;
 }
@@ -38,4 +39,43 @@ h2 {
   font-family: sans-serif;
   font-weight: 600;
   color: crimson;
+}
+
+button {
+  background-color: #ff71b5;
+  border: none;
+  background-color: rgba(255, 0, 0, 0.2);
+  border-radius: 100px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+input,
+select {
+  margin: 8px;
+  border: none;
+  background-color: rgba(255, 0, 0, 0.2);
+  border-radius: 50px;
+  color: crimson;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  color: crimson;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.fotos {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.buttons {
+  color: crimson;
+  text-decoration: none;
 }
